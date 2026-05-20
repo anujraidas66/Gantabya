@@ -1,7 +1,9 @@
-import React from 'react'
+import HeroSection from "./features/heroSection/page";
 
-export default function page() {
+export default function Home() {
   return (
-    <div>hhhffghfghjxfdghf</div>
+   <main>
+    <HeroSection/>
+   </main>
   )
 }
