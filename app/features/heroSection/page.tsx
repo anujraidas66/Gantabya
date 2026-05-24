@@ -17,7 +17,7 @@ export default function HeroSection() {
           {/* Heading */}
           <h1 className="text-white text-5xl md:text-7xl font-extrabold leading-tight">
             The EV <br />
-            <span className="bg-gradient-to-r from-green-400 to-blue-500 bg-clip-text text-transparent">
+            <span className="bg-linear-to-r from-green-400 to-blue-500 bg-clip-text text-transparent">
               Revolution
             </span>
           </h1>
